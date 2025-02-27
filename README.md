@@ -31,10 +31,3 @@ Este projeto pode utilizar as seguintes tecnologias, **se houver necessidade**:
 - 🔄 **GitHub** *(para versionamento e colaboração no desenvolvimento da pesquisa)*.
 
 ## 📂 Estrutura do Repositório
-
-```plaintext
-/docs       → Referências bibliográficas e relatórios do STF
-/casos      → Jurisprudência relevante (se houver necessidade)
-/scripts    → Códigos para análise (se houver necessidade)
-/notebooks  → Jupyter Notebooks para experimentação (se houver necessidade)
-README.md   → Documento principal do repositório
